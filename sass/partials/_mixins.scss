@@ -1,0 +1,19 @@
+$defined-bs-type: border-box;
+$defined-bs-type: sausages !default;
+@mixin bs($bs-type : $defined-bs-type) {
+    -webkit-box-sizing: $bs-type;
+    -moz-box-sizing: $bs-type;
+    box-sizing: $bs-type;
+}
+
+@mixin button-links($button-base:darken($color11,10%),$button-hover:darken($color11,15%)){
+    border: 1px solid darken($color11,16%);
+    padding: .3em .6em;
+    margin-left: .7em;
+    @include border-radius(8px);
+    @include text-shadow(0 1px 2px $color11);
+    color: lighten($color10,50%);
+    &:hover{
+        background: $button-hover;
+    }
+}
