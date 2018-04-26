@@ -134,7 +134,7 @@
 					<div class="intro-text">
 						<hr/>
 						<h3>Air freight</h3>
-						<p>TGNL provides the full range of customs clearing and forwarding services both for sea and air shipments</p>
+						<p>BRAND provides the full range of customs clearing and forwarding services both for sea and air shipments</p>
 						<hr/>
 					</div>
 					
@@ -187,7 +187,7 @@
 									</div>
 
 									<h3>Ground Handling</h3>
-									<p>TGNL is delighted in offering her airline customers excellent ground handling services. Our team of qualified personnel skillfully provides combined services in ground, ramp handling, warehousing as well as accurate documentation.Our automated cargo handling systems enables us to handle customer cargo and documentation professionally as well as reduces handling costs.</p>     
+									<p>BRAND is delighted in offering her airline customers excellent ground handling services. Our team of qualified personnel skillfully provides combined services in ground, ramp handling, warehousing as well as accurate documentation.Our automated cargo handling systems enables us to handle customer cargo and documentation professionally as well as reduces handling costs.</p>     
 								</div> 
 							</div>
 						</div>
@@ -205,7 +205,7 @@
 										
 									</div>
 									<h3>Land Freight Forwarding</h3>
-									<p>TGNL offers variety of tailor-made and cost-effective solutions for transportation by road. Your freight can be transported to any location in Nigeria. With extensive range of transport carriers, the company can schedule inter-state deliveries to suit your time requirements. There are containerized trucks for handling perishable goods and other sensitive consignments</p>
+									<p>BRAND offers variety of tailor-made and cost-effective solutions for transportation by road. Your freight can be transported to any location in Nigeria. With extensive range of transport carriers, the company can schedule inter-state deliveries to suit your time requirements. There are containerized trucks for handling perishable goods and other sensitive consignments</p>
 
 									    
 								</div> 
@@ -233,7 +233,7 @@
 									</div>
 
 									<h3>Transport</h3>
-									<p>Our fleet meets high international safety standards and our drivers are guided by our policy. At TGNL, it is ?Safety First?. Our drivers have undergone training in defensive driving. All our trucks are fitted with GPRS tracking systems,which enable the tracking of cargo as they move from one point to another..</p>    
+									<p>Our fleet meets high international safety standards and our drivers are guided by our policy. At BRAND, it is ?Safety First?. Our drivers have undergone training in defensive driving. All our trucks are fitted with GPRS tracking systems,which enable the tracking of cargo as they move from one point to another..</p>    
 								</div> 
 							</div>
 						</div>
